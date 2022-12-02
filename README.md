@@ -9,6 +9,6 @@ Repositorio:<br>
    Republicado em 02/12/2022<br>
 <hr />
 1. Um bot de música para o Discord.<br>
-2. Quais recursos: reproduzir video do youtube, playlist,
+2. Quais recursos: reproduzir video do youtube e playlist.
 <hr />
 
