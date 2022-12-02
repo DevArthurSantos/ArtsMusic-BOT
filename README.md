@@ -1,12 +1,3 @@
- <br>
-<hr />
-tecnologias:<br>
-   nodeJs<br>
-<hr />
-<hr />
-  ,<br> <br>
-
-
 # NodeJs-BOT ArtsMusic
 <hr />
 tecnologias:
